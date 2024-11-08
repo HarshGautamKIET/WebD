@@ -1,6 +1,6 @@
 html, body {
     height: 100%;
-    background-color: #212020;
+    background-color: #2f4554;
     width: 100%;
     overflow: hidden;
 }
@@ -21,7 +21,7 @@ html, body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: "Libre Baskerville", serif;
+    font-family: "Poppins", serif;
     color: white;
     text-transform: uppercase;
     font-size: 40px;
